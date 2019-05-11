@@ -25,7 +25,7 @@ DSRG Caffe DIGITS Env
 
 Since without root permission, use conda to install some packages, such as libmatio.
 
-In order to handle version conflicts between system and conda, like gcc or g++.
+In order to handle version conflicts between system and conda, like gcc or g++, use `source activate/deactivate` or `exit`. 
 
 ### Details
 
