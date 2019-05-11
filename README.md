@@ -87,9 +87,9 @@ In order to handle version conflicts between system and conda, like gcc or g++, 
 
 #### CAFFE(deeplab-public-ver2)
 
-** If some errors occur, please refer https://github.com/zej-luffy/deeplab-public-ver2.git (compilable Branch)**
+**If some errors occur, please refer https://github.com/zej-luffy/deeplab-public-ver2.git (compilable Branch)**
 
-** There are some changes of `Makefile` and so on, which are not detailed here.
+**There are some changes of `Makefile` and so on, which are not detailed here.**
 
 > source deactivate digits
 
@@ -117,7 +117,7 @@ In order to handle version conflicts between system and conda, like gcc or g++, 
 
 **Tips** 
 
-** I suggest seriously you to backup this env using `conda create -n digits-test --clone digits` after running `source deactivate digits`. **
+**I seriously suggest you to backup this env using `conda create -n digits-test --clone digits` after running `source deactivate digits`. **
 
 > source activate digits-test
 
@@ -181,9 +181,9 @@ so you can specify versions which do not work in `digits-test` but work in `digi
 
 After that, maybe you need to execute `export LD_LIBRARY_PATH=/home/yuliuchuan/anaconda3/pkgs/hdf5-1.10.2-hba1933b_1/lib:$LD_LIBRARY_PATH`.
 
-** About Environment Variables, you can refer `digits-test.bashrc`. **
+**About Environment Variables, you can refer `digits-test.bashrc`.**
 
-### **Welcome raise issues**
+### **Welcome raising issues**
 
 
 
