@@ -1,3 +1,12 @@
 [submodule "DSRG"]
 	path = DSRG
 	url = https://github.com/speedinghzl/DSRG.git
+[submodule "DIGITS"]
+	path = DIGITS
+	url = https://github.com/NVIDIA/DIGITS.git
+[submodule "deeplab-public-ver2"]
+	path = deeplab-public-ver2
+	url = https://bitbucket.org/aquariusjay/deeplab-public-ver2.git
+[submodule "OpenBLAS"]
+	path = OpenBLAS
+	url = https://github.com/xianyi/OpenBLAS.git

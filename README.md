@@ -1,7 +1,7 @@
 # DSRG-CAFFE-DIGITS-ENV
 DSRG Caffe DIGITS Env
 
-## How to build a environment containing CAFFE and DIGITS which can reproduce DSRG paper result **without root permission** On Ubuntu 16.04 LTS
+## How to build an environment containing CAFFE and DIGITS which can reproduce DSRG paper result **without root permission** On Ubuntu 16.04 LTS
 
 ### **Python Version 2.7.16**
 
