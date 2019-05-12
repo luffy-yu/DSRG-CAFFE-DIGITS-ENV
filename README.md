@@ -153,6 +153,12 @@ In order to handle version conflicts between system and conda, like gcc or g++, 
 
 > source activate digits-test
 
+> pip install Theano==1.0.4
+
+>> **Version is vital.**
+
+> pip install scikit-learn
+
 > python -c "import caffe"
 
 >> If nothing wrong, well done!😎

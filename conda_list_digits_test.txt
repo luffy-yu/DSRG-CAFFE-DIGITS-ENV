@@ -91,6 +91,7 @@ lmdb                      0.87                     pypi_0    pypi
 markupsafe                1.1.1            py27h7b6447c_0    anaconda
 matplotlib                1.5.2                    pypi_0    pypi
 mkl                       2019.3                      199    anaconda
+mkl-service               1.1.2            py27he904b0f_5    https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
 mkl_fft                   1.0.12           py27ha843d7b_0    anaconda
 mkl_random                1.0.2            py27hd81dba3_0    anaconda
 ncurses                   6.1                  he6710b0_1    anaconda
@@ -108,7 +109,7 @@ pillow                    3.1.2                    pypi_0    pypi
 pip                       19.1                     py27_0    anaconda
 pixman                    0.38.0               h7b6447c_0    anaconda
 prompt_toolkit            1.0.15                   py27_0    anaconda
-protobuf                  3.6.1                    pypi_0    pypi
+protobuf                  3.1.0.post1              pypi_0    pypi
 psutil                    3.4.2                    pypi_0    pypi
 ptyprocess                0.6.0                    py27_0    anaconda
 py-boost                  1.67.0           py27h04863e7_4    anaconda
@@ -137,6 +138,7 @@ requests                  2.9.1                    pypi_0    pypi
 scandir                   1.10.0           py27h7b6447c_0    anaconda
 scikit-fmm                0.0.9                    py27_0    anaconda
 scikit-image              0.14.2           py27he6710b0_0    anaconda
+scikit-learn              0.20.3                   pypi_0    pypi
 scipy                     0.17.0                   pypi_0    pypi
 setuptools                20.7.0                   pypi_0    pypi
 shiboken                  1.2.1                    py27_0    https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
@@ -147,6 +149,7 @@ six                       1.10.0           py27hdcd7534_1    anaconda
 snappy                    1.1.7                hbae5bb6_3    defaults
 sqlite                    3.28.0               h7b6447c_0    anaconda
 subprocess32              3.5.3            py27h7b6447c_0    anaconda
+theano                    1.0.4                    pypi_0    pypi
 tk                        8.6.8                hbc83047_0    anaconda
 toolz                     0.9.0                    py27_0    anaconda
 tornado                   5.1.1            py27h7b6447c_0    anaconda

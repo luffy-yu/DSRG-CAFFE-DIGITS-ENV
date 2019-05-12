@@ -73,13 +73,15 @@ requests                           2.9.1
 scandir                            1.10.0     
 scikit-fmm                         0.0.9      
 scikit-image                       0.14.2     
+scikit-learn                       0.20.3     
 scipy                              0.17.0     
-setuptools                         20.7.0     
+setuptools                         41.0.0     
 simplegeneric                      0.8.1      
 singledispatch                     3.4.0.3    
 sip                                4.19.13    
 six                                1.10.0     
 subprocess32                       3.5.3      
+Theano                             1.0.4      
 toolz                              0.9.0      
 tornado                            5.1.1      
 traceback2                         1.4.0      
